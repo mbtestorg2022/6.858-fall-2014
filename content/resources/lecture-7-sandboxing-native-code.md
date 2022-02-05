@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 7: Sandboxing Native Code\t"
+title: 'Lecture 7: Sandboxing Native Code '
 uid: 8783bc2a-eac6-5757-d657-2db63057db0f
 video_files:
   archive_url: https://archive.org/download/MIT6.858F14/MIT6_858F14_lec07_300k.mp4

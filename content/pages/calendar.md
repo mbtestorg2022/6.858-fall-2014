@@ -4,31 +4,381 @@ title: Calendar
 uid: dabca564-ab4f-bb85-e10a-3f813fb45ad0
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction, Threat Models | Lab 1 out |
-| 2 | Control Hijacking Attacks | &nbsp; |
-| 3 | Buffer Overflow Exploits and Defenses | Lab 1 (parts 1 and 2) due two days after Lec 3 |
-| 4 | Privilege Separation | &nbsp; |
-| 5 | Guest Lecture: Paul Youn from [iSEC Partners](https://www.isecpartners.com/) |  {{< br >}}{{< br >}} Lab 2 out {{< br >}}{{< br >}} Lab 1 due two days after Lec 5 {{< br >}}{{< br >}}  |
-| 6 | Capabilities | &nbsp; |
-| 7 | Sandboxing Native Code | Lab 2 (part 1) due two days after Lec 7 |
-| 8 | Web Security Model | &nbsp; |
-| 9 | Securing Web Applications | Lab 2 (parts 2 and 3) due two days after Lec 9 |
-| 10 | Symbolic Execution |  {{< br >}}{{< br >}} Lab 3 out {{< br >}}{{< br >}} Lab 2 due two days after Lec 10 {{< br >}}{{< br >}}  |
-| 11 | Ur / Web |  {{< br >}}{{< br >}} Lab 7 (Final Project) out {{< br >}}{{< br >}} Lab 3 (part 1) due two days after Lec 11 {{< br >}}{{< br >}}  |
-| 12 | Network Security | &nbsp; |
-| 13 | Network Protocols |  {{< br >}}{{< br >}} Lab 4 out {{< br >}}{{< br >}} Lab 3 due two days after Lec 13 {{< br >}}{{< br >}}  |
-| 14 | SSL and HTTPS | Lab 5 out |
-| Quiz 1 |  {{< br >}}{{< br >}} Covers lectures 1–14 and labs 1–3 {{< br >}}{{< br >}} Open Book and Notes {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 4 due two days after Quiz 1 {{< br >}}{{< br >}} Final Project Proposal Due two days after Quiz 1 {{< br >}}{{< br >}}  |
-| 15 | Medical Software | &nbsp; |
-| 16 | Side-Channel Attacks | Lab 6 out |
-| 17 | User Authentication | Lab 5 due two days after Lec 17 |
-| 18 | Private Browsing | &nbsp; |
-| 19 | Anonymous Communication |  {{< br >}}{{< br >}} Lab 6 due two days after Lec 19 {{< br >}}{{< br >}} Final Project Status Update due two days after Lec 19 {{< br >}}{{< br >}}  |
-| 20 | Mobile Phone Security | &nbsp; |
-| 21 | Data Tracking | &nbsp; |
-| Quiz 2 |  {{< br >}}{{< br >}} Covers lectures 15–21 and labs 4–6 {{< br >}}{{< br >}} Open Book and Notes {{< br >}}{{< br >}}  | &nbsp; |
-| 22 | Guest Lecture: Mark Silis and David LaPorte from [MIT IS&T](http://ist.mit.edu/) | &nbsp; |
-| 23 | Security Economics | &nbsp; |
-| 24 | Project Presentations | Final Project Writeup and Code due two days after Lec 24
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Threat Models
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Control Hijacking Attacks
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Buffer Overflow Exploits and Defenses
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 1 (parts 1 and 2) due two days after Lec 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Privilege Separation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture: Paul Youn from [iSEC Partners](https://www.isecpartners.com/)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 2 out
+
+Lab 1 due two days after Lec 5
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Capabilities
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Sandboxing Native Code
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 2 (part 1) due two days after Lec 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Web Security Model
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Securing Web Applications
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 2 (parts 2 and 3) due two days after Lec 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Symbolic Execution
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 3 out
+
+Lab 2 due two days after Lec 10
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Ur / Web
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 7 (Final Project) out
+
+Lab 3 (part 1) due two days after Lec 11
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Network Security
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Network Protocols
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 4 out
+
+Lab 3 due two days after Lec 13
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+SSL and HTTPS
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covers lectures 1–14 and labs 1–3
+
+Open Book and Notes
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 4 due two days after Quiz 1
+
+Final Project Proposal Due two days after Quiz 1
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Medical Software
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Side-Channel Attacks
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 6 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+User Authentication
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 5 due two days after Lec 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Private Browsing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Anonymous Communication
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 6 due two days after Lec 19
+
+Final Project Status Update due two days after Lec 19
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Mobile Phone Security
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Data Tracking
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covers lectures 15–21 and labs 4–6
+
+Open Book and Notes
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture: Mark Silis and David LaPorte from [MIT IS&T](http://ist.mit.edu/)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Security Economics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Writeup and Code due two days after Lec 24
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
