@@ -63,7 +63,7 @@ Bittau, Andrea, Adam Belay, et al. "[Hacking Blind](http://crypto.stanford.edu/~
 {{< tdopen >}}
 
 
-Krohn, Maxwell. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Building Secure High-Performance Web Services with OKWS (PDF)](https://pdos.csail.mit.edu/papers/okws-usenix04.pdf)." _USENIX Technical Conference_ (2004): pp. 185–198.
+Krohn, Maxwell. "[Building Secure High-Performance Web Services with OKWS (PDF)](https://pdos.csail.mit.edu/papers/okws-usenix04.pdf)." _USENIX Technical Conference_ (2004): pp. 185–198.
 
 
 {{< tdclose >}}
@@ -93,7 +93,7 @@ No question
 
 Hardy, Norm. "The Confused Deputy." _ACM SIGOPS Operating Systems Review_ 22, no. 4 (1988): pp. 36–38.
 
-Watson, Robert N. M., Jonathan Anderson, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Capsicum: practical capabilities for UNIX." (PDF)](https://www.usenix.org/legacy/event/sec10/tech/full_papers/Watson.pdf) _Proceedings of the 19th USENIX Security Symposium_ (2010).
+Watson, Robert N. M., Jonathan Anderson, et al. ["Capsicum: practical capabilities for UNIX." (PDF)](https://www.usenix.org/legacy/event/sec10/tech/full_papers/Watson.pdf) _Proceedings of the 19th USENIX Security Symposium_ (2010).
 
 
 {{< tdclose >}}
@@ -215,7 +215,7 @@ Jackson, Collin, and Adam Barth. "[ForceHTTPS: Protecting High-Security Web Site
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Fu, Kevin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Trustworthy Medical Device Software." (PDF)](http://spqr.eecs.umich.edu/papers/fu-trustworthy-medical-device-software-IOM11.pdf), 2011.
+Fu, Kevin. ["Trustworthy Medical Device Software." (PDF)](http://spqr.eecs.umich.edu/papers/fu-trustworthy-medical-device-software-IOM11.pdf), 2011.
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 15 Question (PDF)]({{< baseurl >}}/resources/mit6_858f14_reading15)
