@@ -4,6 +4,7 @@ description: This resource contains the information regarding Class on Computer 
   Security, Reading Question 16.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-858-computer-systems-security-fall-2014/99353ca2e45f569c31d521075ef0965e_MIT6_858F14_Reading16.pdf
 file_type: application/pdf
+parent_uid: 50ab49ba-d54a-f501-0f69-d11b0bb294be
 resourcetype: Document
 title: Class on Computer Systems Security, Reading Question 16
 uid: 99353ca2-e45f-569c-31d5-21075ef0965e

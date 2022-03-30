@@ -14,7 +14,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_6.033 Computer System Engineering_](/courses/6-033-computer-system-engineering-spring-2018/)
+[_6.033 Computer System Engineering_](/courses/6-033-computer-system-engineering-spring-2018)
 
 Description
 -----------
